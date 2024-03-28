@@ -6,4 +6,4 @@ school:
 
 Work:
 - Ferris acres creamery
--
+-Impact business technology
